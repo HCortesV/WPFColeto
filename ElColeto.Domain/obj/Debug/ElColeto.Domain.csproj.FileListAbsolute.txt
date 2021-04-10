@@ -1,0 +1,6 @@
+C:\Users\hector.cortes\source\repos\ElColeto\ElColeto.Domain\bin\Debug\ElColeto.Domain.dll
+C:\Users\hector.cortes\source\repos\ElColeto\ElColeto.Domain\bin\Debug\ElColeto.Domain.pdb
+C:\Users\hector.cortes\source\repos\ElColeto\ElColeto.Domain\obj\Debug\ElColeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hector.cortes\source\repos\ElColeto\ElColeto.Domain\obj\Debug\ElColeto.Domain.dll
+C:\Users\hector.cortes\source\repos\ElColeto\ElColeto.Domain\obj\Debug\ElColeto.Domain.pdb
+C:\Users\hector.cortes\source\repos\ElColeto\ElColeto.Domain\obj\Debug\ElColeto.Domain.csprojAssemblyReference.cache
